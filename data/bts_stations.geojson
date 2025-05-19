@@ -1,0 +1,1202 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.553812,
+          13.802623
+        ]
+      },
+      "properties": {
+        "idstation": "N8",
+        "name": "สถานีหมอชิต",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1030",
+        "dname": "เขตจตุจักร",
+        "station_co": "สถานีเชื่อมต่อเส้นทางรถไฟฟ้ามหานคร สายสีน้ำเงิน สถานี BL13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54975,
+          13.793863
+        ]
+      },
+      "properties": {
+        "idstation": "N7",
+        "name": "สถานีสะพานควาย",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1014",
+        "dname": "เขตพญาไท",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.544578,
+          13.77955
+        ]
+      },
+      "properties": {
+        "idstation": "N5",
+        "name": "สถานีอารีย์",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1014",
+        "dname": "เขตพญาไท",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.542072,
+          13.772551
+        ]
+      },
+      "properties": {
+        "idstation": "N4",
+        "name": "สถานีสนามเป้า",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1014",
+        "dname": "เขตพญาไท",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.537032,
+          13.762703
+        ]
+      },
+      "properties": {
+        "idstation": "N3",
+        "name": "สถานีอนุสาวรีย์ชัยสมรภูมิ",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1037",
+        "dname": "เขตราชเทวี",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.533823,
+          13.756956
+        ]
+      },
+      "properties": {
+        "idstation": "N2",
+        "name": "สถานีพญาไท",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1037",
+        "dname": "เขตราชเทวี",
+        "station_co": "สถานีเชื่อมต่อเส้นทางรถไฟฟ้าแอร์พอร์ต เรล ลิงก์ (Airport Rail Link)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.531561,
+          13.751817
+        ]
+      },
+      "properties": {
+        "idstation": "N1",
+        "name": "สถานีราชเทวี",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1037",
+        "dname": "เขตราชเทวี",
+        "station_co": "สถานีเชื่อมต่อเส้นทางเรือโดยสารคลองแสนแสบ  ท่าสะพานหัวช้าง"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.529168,
+          13.746508
+        ]
+      },
+      "properties": {
+        "idstation": "W1",
+        "name": "สถานีสนามกีฬาแห่งชาติ",
+        "id_btsline": 1,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "dcode": "1007",
+        "dname": "เขตปทุมวัน",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.534221,
+          13.745654
+        ]
+      },
+      "properties": {
+        "idstation": "CEN",
+        "name": "สถานีสยาม",
+        "id_btsline": 1,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "dcode": "1007",
+        "dname": "เขตปทุมวัน",
+        "station_co": "สถานีร่วมระหว่างเส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)กับเส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.539451,
+          13.739457
+        ]
+      },
+      "properties": {
+        "idstation": "S1",
+        "name": "สถานีราชดำริ",
+        "id_btsline": 1,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "dcode": "1007",
+        "dname": "เขตปทุมวัน",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.534239,
+          13.728515
+        ]
+      },
+      "properties": {
+        "idstation": "S2",
+        "name": "สถานีศาลาแดง",
+        "id_btsline": 1,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "dcode": "1004",
+        "dname": "เขตบางรัก",
+        "station_co": "สถานีเชื่อมต่อเส้นทางรถไฟฟ้ามหานคร สายสีน้ำเงิน สถานี BL26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.529373,
+          13.723854
+        ]
+      },
+      "properties": {
+        "idstation": "S3",
+        "name": "สถานีช่องนนทรีย์",
+        "id_btsline": 1,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "dcode": "1004",
+        "dname": "เขตบางรัก",
+        "station_co": "สถานีเชื่อมต่อรถโดยสารด่วนพิเศษ สายสาทร–ราชพฤกษ์ สถานีสาทร"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.521567,
+          13.719301
+        ]
+      },
+      "properties": {
+        "idstation": "S5",
+        "name": "สถานีสุรศักดิ์",
+        "id_btsline": 1,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "dcode": "1028",
+        "dname": "เขตสาทร",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.514177,
+          13.718813
+        ]
+      },
+      "properties": {
+        "idstation": "S6",
+        "name": "สถานีสะพานตากสิน",
+        "id_btsline": 1,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "dcode": "1004",
+        "dname": "เขตบางรัก",
+        "station_co": "สถานีเชือมต่อเส้นทางเดินเรือด่วนเจ้าพระยา  ท่าสาทร"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.543032,
+          13.744099
+        ]
+      },
+      "properties": {
+        "idstation": "E1",
+        "name": "สถานีชิดลม",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1007",
+        "dname": "เขตปทุมวัน",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.549156,
+          13.74303
+        ]
+      },
+      "properties": {
+        "idstation": "E2",
+        "name": "สถานีเพลินจิต",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1007",
+        "dname": "เขตปทุมวัน",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.555335,
+          13.740632
+        ]
+      },
+      "properties": {
+        "idstation": "E3",
+        "name": "สถานีนานา",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1039",
+        "dname": "เขตวัฒนา",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.560425,
+          13.73702
+        ]
+      },
+      "properties": {
+        "idstation": "E4",
+        "name": "สถานีอโศก",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1033",
+        "dname": "เขตคลองเตย",
+        "station_co": "สถานีเชื่อมต่อเส้นทางรถไฟฟ้ามหานคร สายสีน้ำเงิน สถานี BL22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56961,
+          13.730517
+        ]
+      },
+      "properties": {
+        "idstation": "E5",
+        "name": "สถานีพร้อมพงษ์",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1039",
+        "dname": "เขตวัฒนา",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.578463,
+          13.724296
+        ]
+      },
+      "properties": {
+        "idstation": "E6",
+        "name": "สถานีทองหล่อ",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1033",
+        "dname": "เขตคลองเตย",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.585125,
+          13.719553
+        ]
+      },
+      "properties": {
+        "idstation": "E7",
+        "name": "สถานีเอกมัย",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1033",
+        "dname": "เขตคลองเตย",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59118,
+          13.715265
+        ]
+      },
+      "properties": {
+        "idstation": "E8",
+        "name": "สถานีพระโขนง",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1039",
+        "dname": "เขตวัฒนา",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.601035,
+          13.705629
+        ]
+      },
+      "properties": {
+        "idstation": "E9",
+        "name": "สถานีอ่อนนุช",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1033",
+        "dname": "เขตคลองเตย",
+        "station_co": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.502531,
+          13.720937
+        ]
+      },
+      "properties": {
+        "idstation": "S7",
+        "name": "สถานีกรุงธนบุรี",
+        "id_btsline": 1,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "dcode": "1018",
+        "dname": "เขตคลองสาน",
+        "station_co": "สถานีเชื่อมต่อเส้นทางรถไฟฟ้า สายสีทอง สถานี G1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.495218,
+          13.721071
+        ]
+      },
+      "properties": {
+        "idstation": "S8",
+        "name": "สถานีวงเวียนใหญ่",
+        "id_btsline": 1,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "dcode": "1018",
+        "dname": "เขตคลองสาน",
+        "station_co": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.605357,
+          13.696716
+        ]
+      },
+      "properties": {
+        "idstation": "E10",
+        "name": "สถานีบางจาก",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1009",
+        "dname": "เขตพระโขนง",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.608968,
+          13.689308
+        ]
+      },
+      "properties": {
+        "idstation": "E11",
+        "name": "สถานีปุณณวิถี",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1009",
+        "dname": "เขตพระโขนง",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.609476,
+          13.679849
+        ]
+      },
+      "properties": {
+        "idstation": "E12",
+        "name": "สถานีอุดมสุข",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1047",
+        "dname": "เขตบางนา",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.604646,
+          13.668121
+        ]
+      },
+      "properties": {
+        "idstation": "E13",
+        "name": "สถานีบางนา",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1047",
+        "dname": "เขตบางนา",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.601798,
+          13.661152
+        ]
+      },
+      "properties": {
+        "idstation": "E14",
+        "name": "สถานีแบริ่ง",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1047",
+        "dname": "เขตบางนา",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.485969,
+          13.71922
+        ]
+      },
+      "properties": {
+        "idstation": "S9",
+        "name": "สถานีโพธิ์นิมิตร",
+        "id_btsline": 1,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "dcode": "1015",
+        "dname": "เขตธนบุรี",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.476386,
+          13.714034
+        ]
+      },
+      "properties": {
+        "idstation": "S10",
+        "name": "สถานีตลาดพลู",
+        "id_btsline": 1,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "dcode": "1015",
+        "dname": "เขตธนบุรี",
+        "station_co": "สถานีเชื่อมต่อรถโดยสารด่วนพิเศษ สายสาทร–ราชพฤกษ์ สถานีราชพฤกษ์"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.472621,
+          13.712222
+        ]
+      },
+      "properties": {
+        "idstation": "S11",
+        "name": "สถานีวุฒากาศ",
+        "id_btsline": 1,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "dcode": "1015",
+        "dname": "เขตธนบุรี",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.457797,
+          13.720789
+        ]
+      },
+      "properties": {
+        "idstation": "S12",
+        "name": "สถานีบางหว้า",
+        "id_btsline": 1,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "dcode": "1022",
+        "dname": "เขตภาษีเจริญ",
+        "station_co": "สถานีเชื่อมต่อเส้นทางรถไฟฟ้ามหานคร สายสีน้ำเงิน สถานี BL34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.562055,
+          13.81669
+        ]
+      },
+      "properties": {
+        "idstation": "N9",
+        "name": "สถานีห้าแยกลาดพร้าว",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1030",
+        "dname": "เขตจตุจักร",
+        "station_co": "สถานีเชื่อมต่อเส้นทางรถไฟฟ้ามหานคร สายสีน้ำเงิน สถานี BL14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.566461,
+          13.824137
+        ]
+      },
+      "properties": {
+        "idstation": "N10",
+        "name": "สถานีพหลโยธิน 24",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1030",
+        "dname": "เขตจตุจักร",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.569718,
+          13.829757
+        ]
+      },
+      "properties": {
+        "idstation": "N11",
+        "name": "สถานีรัชโยธิน",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1030",
+        "dname": "เขตจตุจักร",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.577119,
+          13.842255
+        ]
+      },
+      "properties": {
+        "idstation": "N13",
+        "name": "สถานีมหาวิทยาลัยเกษตรศาสตร์",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1030",
+        "dname": "เขตจตุจักร",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57362,
+          13.836393
+        ]
+      },
+      "properties": {
+        "idstation": "N12",
+        "name": "สถานีเสนานิคม",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1030",
+        "dname": "เขตจตุจักร",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.592056,
+          13.867649
+        ]
+      },
+      "properties": {
+        "idstation": "N16",
+        "name": "สถานีกรมทหารราบที่ 11",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1005",
+        "dname": "เขตบางเขน",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.585195,
+          13.856015
+        ]
+      },
+      "properties": {
+        "idstation": "N15",
+        "name": "สถานีบางบัว",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1005",
+        "dname": "เขตบางเขน",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.581826,
+          13.850252
+        ]
+      },
+      "properties": {
+        "idstation": "N14",
+        "name": "สถานีกรมป่าไม้",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1030",
+        "dname": "เขตจตุจักร",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.509057,
+          13.726465
+        ]
+      },
+      "properties": {
+        "idstation": "G2",
+        "name": "สถานีเจริญนคร",
+        "id_btsline": 3,
+        "btsline": "เส้นทางรถไฟฟ้า สายสีทอง",
+        "dcode": "1018",
+        "dname": "เขตคลองสาน",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50763,
+          13.730388
+        ]
+      },
+      "properties": {
+        "idstation": "G3",
+        "name": "สถานีคลองสาน",
+        "id_btsline": 3,
+        "btsline": "เส้นทางรถไฟฟ้า สายสีทอง",
+        "dcode": "1018",
+        "dname": "เขตคลองสาน",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.526699,
+          13.720815
+        ]
+      },
+      "properties": {
+        "idstation": "S4",
+        "name": "สถานีเซนต์หลุยส์",
+        "id_btsline": 1,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม)",
+        "dcode": "1028",
+        "dname": "เขตสาทร",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.64657,
+          13.932385
+        ]
+      },
+      "properties": {
+        "idstation": "N24",
+        "name": "สถานีคูคต",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": " ",
+        "dname": "",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.625873,
+          13.925049
+        ]
+      },
+      "properties": {
+        "idstation": "N23",
+        "name": "สถานีแยก คปอ.",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1036",
+        "dname": "เขตดอนเมือง",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.621649,
+          13.917873
+        ]
+      },
+      "properties": {
+        "idstation": "N22",
+        "name": "สถานีพิพิธภัณฑ์กองทัพอากาศ",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1036",
+        "dname": "เขตดอนเมือง",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.617314,
+          13.91058
+        ]
+      },
+      "properties": {
+        "idstation": "N21",
+        "name": "สถานีโรงพยาบาลภูมิพลอดุลยเดช",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1036",
+        "dname": "เขตดอนเมือง",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.609037,
+          13.896489
+        ]
+      },
+      "properties": {
+        "idstation": "N20",
+        "name": "สถานีสะพานใหม่",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1005",
+        "dname": "เขตบางเขน",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.604272,
+          13.888413
+        ]
+      },
+      "properties": {
+        "idstation": "N19",
+        "name": "สถานีสายหยุด",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1005",
+        "dname": "เขตบางเขน",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.600799,
+          13.882515
+        ]
+      },
+      "properties": {
+        "idstation": "N18",
+        "name": "สถานีพหลโยธิน 59",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1005",
+        "dname": "เขตบางเขน",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.596715,
+          13.875256
+        ]
+      },
+      "properties": {
+        "idstation": "N17",
+        "name": "สถานีวัดพระศรีมหาธาตุ",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": "1005",
+        "dname": "เขตบางเขน",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.595821,
+          13.646565
+        ]
+      },
+      "properties": {
+        "idstation": "E15",
+        "name": "สถานีสำโรง",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": " ",
+        "dname": "",
+        "station_co": "สถานีเชื่อมต่อรถไฟฟ้ามหานคร สายสีเหลือง สถานี YL23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.592053,
+          13.637388
+        ]
+      },
+      "properties": {
+        "idstation": "E16",
+        "name": "สถานีปู่เจ้า",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": " ",
+        "dname": "",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.590181,
+          13.621473
+        ]
+      },
+      "properties": {
+        "idstation": "E17",
+        "name": "สถานีช้างเอราวัณ",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": " ",
+        "dname": "",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.594918,
+          13.60848
+        ]
+      },
+      "properties": {
+        "idstation": "E18",
+        "name": "สถานีโรงเรียนนายเรือ",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": " ",
+        "dname": "",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.597103,
+          13.602166
+        ]
+      },
+      "properties": {
+        "idstation": "E19",
+        "name": "สถานีปากน้ำ",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": " ",
+        "dname": "",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.609011,
+          13.591966
+        ]
+      },
+      "properties": {
+        "idstation": "E20",
+        "name": "สถานีศรีนครินทร์",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": " ",
+        "dname": "",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60785,
+          13.584217
+        ]
+      },
+      "properties": {
+        "idstation": "E21",
+        "name": "สถานีแพรกษา",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": " ",
+        "dname": "",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.605432,
+          13.577797
+        ]
+      },
+      "properties": {
+        "idstation": "E22",
+        "name": "สถานีสายลวด",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": " ",
+        "dname": "",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.607711,
+          13.567731
+        ]
+      },
+      "properties": {
+        "idstation": "E23",
+        "name": "สถานีเคหะฯ",
+        "id_btsline": 2,
+        "btsline": "เส้นทางรถไฟฟ้าบีทีเอส สายสุขุมวิท (สีเขียวอ่อน)",
+        "dcode": " ",
+        "dname": "",
+        "station_co": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.503706,
+          13.721065
+        ]
+      },
+      "properties": {
+        "idstation": "G1",
+        "name": "สถานีกรุงธนบุรี",
+        "id_btsline": 3,
+        "btsline": "เส้นทางรถไฟฟ้า สายสีทอง",
+        "dcode": "1018",
+        "dname": "เขตคลองสาน",
+        "station_co": "สถานีเชื่อมต่อเส้นทางรถไฟฟ้าบีทีเอส สายสีลม (สีเขียวเข้ม) สถานี S7"
+      }
+    }
+  ]
+}
